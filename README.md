@@ -18,18 +18,17 @@ Forte d'une solide expérience en **comptabilité (Coca-Cola)** et en **consulti
 
 | N° | Projet | Objectif & Compétences | Outils | État |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Onboarding** | Posture de l'analyste et planification | Soft Skills | ✅ |
-| **02** | **Ventes E-commerce** | Analyse et storytelling de données de ventes | Excel | [Lien](https://github.com/ton-pseudo/nb.projet2) |
-| **03** | **Assurance Habitation** | Analyse de marché et requêtes SQL | SQL | [Lien](https://github.com/ton-pseudo/nb.projet3) |
-| **04** | **Santé Publique (FAO)** | Étude sur la faim dans le monde | Python | ⏳ |
-| **05** | **Gestion Immobilière** | Création de BDD et respect du RGPD | SQL | ⏳ |
-| **06** | **Optimisation Boutique** | Nettoyage de données et analyses multivariées | Python / R | 📅 |
-| **07** | **Suivi de Projets** | Dashboard dynamique d'avancement | Power BI | 📅 |
-| **08** | **Égalité H/F** | Collecte et agrégation de données RH | Excel/Python | 📅 |
-| **09** | **Analyse Librairie** | Séries temporelles et tests statistiques | Python | 📅 |
-| **10** | **Accès à l'Eau** | Dashboards interactifs pour une ONG | Power BI | 📅 |
-| **11** | **Étude de Marché** | Clustering et ACP (Segmentation) | Python / R | 📅 |
-| **12** | **Détection Faux Billets** | Machine Learning (Régression logistique) | Python | 📅 |
+| **01** | **Ventes E-commerce** | Analyse et storytelling de données de ventes | Excel | [https://github.com/naima60/nb_p1_analyse-de-ventes-pour-un-e-commerce) |
+| **02** | **Assurance Habitation** | Analyse de marché et requêtes SQL | SQL | [Lien](https://github.com/ton-pseudo/nb.projet3) |
+| **03** | **Santé Publique (FAO)** | Étude sur la faim dans le monde | Python | ⏳ |
+| **04** | **Gestion Immobilière** | Création de BDD et respect du RGPD | SQL | ⏳ |
+| **05** | **Optimisation Boutique** | Nettoyage de données et analyses multivariées | Python / R | 📅 |
+| **06** | **Suivi de Projets** | Dashboard dynamique d'avancement | Power BI | 📅 |
+| **07** | **Égalité H/F** | Collecte et agrégation de données RH | Excel/Python | 📅 |
+| **08** | **Analyse Librairie** | Séries temporelles et tests statistiques | Python | 📅 |
+| **09** | **Accès à l'Eau** | Dashboards interactifs pour une ONG | Power BI | 📅 |
+| **10** | **Étude de Marché** | Clustering et ACP (Segmentation) | Python / R | 📅 |
+| **11** | **Détection Faux Billets** | Machine Learning (Régression logistique) | Python | 📅 |
 ---
 
 ## 💼 Expériences Marquantes
