@@ -18,9 +18,9 @@ Forte d'une solide expérience en **comptabilité (Coca-Cola)** et en **consulti
 
 | N° | Projet | Objectif & Compétences | Outils | État |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Ventes E-commerce** | Analyse et storytelling de données de ventes | Excel | [https://github.com/naima60/nb_p1_analyse-de-ventes-pour-un-e-commerce) |
-| **02** | **Requeter une base de données logement** | Analyse de marché/requêtes SQL | SQL | [Lien](https://github.com/naima60/nb_p2_Requetez-une-base-de-donnees-logement-avec-SQL) |
-| **03** | **Santé Publique (FAO)** | Étude sur la faim dans le monde | Python | https://github.com/naima60/nb_p3_Realisez-une-etude-de-sante-publique-avec-Python |
+| **01** | **Ventes E-commerce** | Analyse et storytelling de données de ventes | Excel | [https://github.com/naima60/nb_p1_analyse-de-ventes-pour-un-e-commerce)] |
+| **02** | **Requeter une base de données logement** | Analyse de marché/requêtes SQL | SQL | [https://github.com/naima60/nb_p2_Requetez-une-base-de-donnees-logement-avec-SQL) ]|
+| **03** | **Santé Publique (FAO)** | Étude sur la faim dans le monde | Python | [https://github.com/naima60/nb_p3_Realisez-une-etude-de-sante-publique-avec-Python] |
 | **04** | **Gestion Immobilière** | Création de BDD et respect du RGPD | SQL | ⏳ |
 | **05** | **Optimisation Boutique** | Nettoyage de données et analyses multivariées | Python / R | 📅 |
 | **06** | **Suivi de Projets** | Dashboard dynamique d'avancement | Power BI | 📅 |
