@@ -1,7 +1,7 @@
 # Salut, moi c'est Naima ! 👋
 ### Consultante Data Analyst | Expertise Finance & Gestion
 
-Forte d'une solide expérience en **comptabilité (6 ans)** et en **consulting Sage (10 ans)**, j'ai choisi de propulser mon expertise métier grâce à la Data Analysis. Je transforme des données brutes en leviers de décision stratégiques.
+Forte d'une solide expérience en **comptabilité (6 ans)** et en **consulting Sage ** (10 ans : paie, compatbilité et gestion commerciale), j'ai choisi de propulser mon expertise métier grâce à la Data Analysis. Je transforme des données brutes en leviers de décision stratégiques.
 
 ---
 
