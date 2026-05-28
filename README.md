@@ -6,7 +6,7 @@ Forte d'une solide expérience en **comptabilité (6 ans)** et en **consulting S
 ---
 
 ## 🛠 Mon Arsenal Technique
-- **Data Analysis :** Python (Pandas, Numpy), SQL Server, R
+- **Data Analysis :** Python (Pandas, Numpy), SQL Server, Python,DBT/snowflake
 - **Visualisation :** Power BI, Excel Avancé, Matplotlib/Seaborn
 - **Expertise Métier :** paramétrage Sage paie RH, Sage comptabilité et Sage gestion commerciale, Gestion de projet (de la phase étude des besoins à la phase livrable/documentations)
 - **Dev :** HTML/CSS, JS, Notions de C#
